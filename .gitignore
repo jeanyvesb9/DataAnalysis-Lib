@@ -3,3 +3,6 @@
 /.vscode/
 
 /Data_Analysis_Lib.egg-info/
+
+# don't include python compiled
+*.pyc
